@@ -1,4 +1,4 @@
-# Cache [![Build Status](https://travis-ci.org/zcorky/cache.svg?branch=master)](https://travis-ci.org/zcorky/cache)
+# Cache [![Build Status](https://travis-ci.com/zcorky/cache.svg?branch=master)](https://travis-ci.com/zcorky/cache)
 
 > A simple cache lib
 
